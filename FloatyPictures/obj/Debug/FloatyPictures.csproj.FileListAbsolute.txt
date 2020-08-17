@@ -1,0 +1,14 @@
+C:\Users\Sanyo_Neezy\source\repos\FloatyPictures\FloatyPictures\bin\Debug\FloatyButtons.dll
+C:\Users\Sanyo_Neezy\source\repos\FloatyPictures\FloatyPictures\bin\Debug\FloatyButtons.pdb
+C:\Users\Sanyo_Neezy\source\repos\FloatyPictures\FloatyPictures\bin\Debug\FloatyButtons.dll.manifest
+C:\Users\Sanyo_Neezy\source\repos\FloatyPictures\FloatyPictures\bin\Debug\FloatyButtons.vsto
+C:\Users\Sanyo_Neezy\source\repos\FloatyPictures\FloatyPictures\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\Sanyo_Neezy\source\repos\FloatyPictures\FloatyPictures\bin\Debug\Microsoft.Office.Tools.Word.v4.0.Utilities.dll
+C:\Users\Sanyo_Neezy\source\repos\FloatyPictures\FloatyPictures\obj\Debug\FloatyPictures.csprojAssemblyReference.cache
+C:\Users\Sanyo_Neezy\source\repos\FloatyPictures\FloatyPictures\obj\Debug\FloatyButtons.Properties.Resources.resources
+C:\Users\Sanyo_Neezy\source\repos\FloatyPictures\FloatyPictures\obj\Debug\FloatyButtons.MainRibbon.resources
+C:\Users\Sanyo_Neezy\source\repos\FloatyPictures\FloatyPictures\obj\Debug\FloatyPictures.csproj.GenerateResource.cache
+C:\Users\Sanyo_Neezy\source\repos\FloatyPictures\FloatyPictures\obj\Debug\FloatyPictures.csproj.CoreCompileInputs.cache
+C:\Users\Sanyo_Neezy\source\repos\FloatyPictures\FloatyPictures\obj\Debug\FloatyPictures.csproj.CopyComplete
+C:\Users\Sanyo_Neezy\source\repos\FloatyPictures\FloatyPictures\obj\Debug\FloatyButtons.dll
+C:\Users\Sanyo_Neezy\source\repos\FloatyPictures\FloatyPictures\obj\Debug\FloatyButtons.pdb
