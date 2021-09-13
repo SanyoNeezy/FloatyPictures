@@ -12,3 +12,17 @@ C:\Users\Sanyo_Neezy\source\repos\FloatyPictures\FloatyPictures\obj\Debug\Floaty
 C:\Users\Sanyo_Neezy\source\repos\FloatyPictures\FloatyPictures\obj\Debug\FloatyPictures.csproj.CopyComplete
 C:\Users\Sanyo_Neezy\source\repos\FloatyPictures\FloatyPictures\obj\Debug\FloatyButtons.dll
 C:\Users\Sanyo_Neezy\source\repos\FloatyPictures\FloatyPictures\obj\Debug\FloatyButtons.pdb
+D:\Programming\C# Code\FloatyPictures\FloatyPictures\obj\Debug\FloatyPictures.csproj.AssemblyReference.cache
+D:\Programming\C# Code\FloatyPictures\FloatyPictures\obj\Debug\FloatyButtons.Properties.Resources.resources
+D:\Programming\C# Code\FloatyPictures\FloatyPictures\obj\Debug\FloatyButtons.MainRibbon.resources
+D:\Programming\C# Code\FloatyPictures\FloatyPictures\obj\Debug\FloatyPictures.csproj.GenerateResource.cache
+D:\Programming\C# Code\FloatyPictures\FloatyPictures\obj\Debug\FloatyButtons.dll
+D:\Programming\C# Code\FloatyPictures\FloatyPictures\obj\Debug\FloatyButtons.pdb
+D:\Programming\C# Code\FloatyPictures\FloatyPictures\bin\Debug\FloatyButtons.dll
+D:\Programming\C# Code\FloatyPictures\FloatyPictures\bin\Debug\FloatyButtons.pdb
+D:\Programming\C# Code\FloatyPictures\FloatyPictures\bin\Debug\FloatyButtons.dll.manifest
+D:\Programming\C# Code\FloatyPictures\FloatyPictures\bin\Debug\FloatyButtons.vsto
+D:\Programming\C# Code\FloatyPictures\FloatyPictures\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+D:\Programming\C# Code\FloatyPictures\FloatyPictures\bin\Debug\Microsoft.Office.Tools.Word.v4.0.Utilities.dll
+D:\Programming\C# Code\FloatyPictures\FloatyPictures\obj\Debug\FloatyPictures.csproj.CoreCompileInputs.cache
+D:\Programming\C# Code\FloatyPictures\FloatyPictures\obj\Debug\FloatyPictures.csproj.CopyComplete

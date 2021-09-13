@@ -44,24 +44,25 @@
             // tab1
             // 
             this.tab1.ControlId.ControlIdType = Microsoft.Office.Tools.Ribbon.RibbonControlIdType.Office;
+            this.tab1.ControlId.OfficeId = "TabHome";
             this.tab1.Groups.Add(this.group1);
-            this.tab1.Label = "Sans Tab";
+            this.tab1.Label = "TabHome";
             this.tab1.Name = "tab1";
             // 
             // group1
             // 
             this.group1.Items.Add(this.btnFloatImages);
-            this.group1.Label = "Magic Moves";
+            this.group1.Label = "Bilder Frei verschieben";
             this.group1.Name = "group1";
             // 
             // btnFloatImages
             // 
+            this.btnFloatImages.ControlSize = Microsoft.Office.Core.RibbonControlSize.RibbonControlSizeLarge;
             this.btnFloatImages.Image = global::FloatyButtons.Properties.Resources.FloatingFeather;
             this.btnFloatImages.Label = "Float Your Pictures";
             this.btnFloatImages.Name = "btnFloatImages";
             this.btnFloatImages.ScreenTip = "Float Your Images";
             this.btnFloatImages.ShowImage = true;
-            this.btnFloatImages.ShowLabel = false;
             this.btnFloatImages.SuperTip = "Floats either the selected or (if non are selected) all Images in the Document by" +
     " setting their TextWrap to \'Through\'. Cannot be undone!";
             this.btnFloatImages.Click += new Microsoft.Office.Tools.Ribbon.RibbonControlEventHandler(this.button1_Click);
